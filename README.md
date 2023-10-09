@@ -23,7 +23,6 @@ Tools:
 * [Elementor for WordPress](https://elementor.com/)
 * [Docker Image Alpine Linux with Nginx](https://hub.docker.com/_/nginx)
 * [Azure Web App for Containers](https://azure.microsoft.com/en-us/products/app-service/containers?activetab=pivot:deploytab)
-* [PostgreSQL Database](https://www.postgresql.org/)
 * [Leafletjs](https://leafletjs.com/)
 
 Code:
